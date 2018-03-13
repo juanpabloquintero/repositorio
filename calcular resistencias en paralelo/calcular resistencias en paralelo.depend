@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520965382 source:c:\users\aulah305\desktop\ejercicios de ciclos\calcular resistencias en paralelo\main.cpp
+	<iostream>
+	<math.h>
+
